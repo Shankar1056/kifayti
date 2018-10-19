@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "952840156",
+    "firebase_url": "https://kifayti-6257b.firebaseio.com",
+    "project_id": "kifayti-6257b",
+    "storage_bucket": "kifayti-6257b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952840156:android:3c78ae5530da3c3c",
+        "android_client_info": {
+          "package_name": "apextechies.kifayti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952840156-eodtphc3nrhe3ui8i8l2t2nunmpotmfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apextechies.kifayti",
+            "certificate_hash": "321bbf7ac25ec1b2fa18f142475fdaade22eff3e"
+          }
+        },
+        {
+          "client_id": "952840156-kdgd677bh56u0qft2hmbl3n7rojgtgmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtOyLLvMncmWL_xg1EERPYj-c7nefx6EA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952840156-kdgd677bh56u0qft2hmbl3n7rojgtgmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
